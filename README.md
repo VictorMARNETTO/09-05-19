@@ -28,14 +28,16 @@ Netlify: https://hugo-victor.netlify.com/
 
 < JAVASCRIPT >
 
-Premiere app JS => Pierre, Feuille, Ciseaux:
+Premiere app JS =>Pierre, Feuille, Ciseaux:
 
 https://victormarnetto.github.io/Rock-Paper-Scissors/
 
 <= JEU EN JAVASCRIPT =>
 
-DEBUT => 
+DEBUT =>
+
     Doc: https://developer.mozilla.org/fr/docs/Jeux
+    
     Version1: https://victormarnetto.github.io/jeu-d-origine/
     
     Planche: 
