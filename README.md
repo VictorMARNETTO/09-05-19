@@ -11,3 +11,18 @@ Planches: https://marnetto-cloud.ovh/index.php/s/FaLxfTRAPyRNJnL
     
 Fin => 
     Version Finale: https://victormarnetto.github.io/PhilSquirrel/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIS : https://github.com/VictorMARNETTO/09-05-19-bis/blob/master/README.md
